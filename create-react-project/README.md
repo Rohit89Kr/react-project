@@ -1,5 +1,4 @@
-create-react-project
-====================
+
 
 Create's new [React Projects](https://github.com/ryanflorence/react-project)
 
